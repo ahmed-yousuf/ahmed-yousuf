@@ -8,7 +8,7 @@
 - 🔭 I just launched my first own website: [Know About Me More!][mywebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Develop more on Flutter projects.
+- 🥅 2023 Goals: Develop more on Flutter projects.
 - ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
